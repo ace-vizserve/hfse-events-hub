@@ -1,0 +1,4514 @@
+[
+  {
+    "id": "evt-6",
+    "title": "Chinese New Year Celebration",
+    "start": "2027-02-05",
+    "end": "2027-02-05",
+    "owner": "",
+    "category": "School events",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2026-11-05",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2026-11-19",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2026-12-31",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-01-05",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-01-19",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-01-29",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-02-10",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-02-19",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-02-26",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-7",
+    "title": "Friendship Night",
+    "start": "2027-02-12",
+    "end": "2027-02-12",
+    "owner": "",
+    "category": "School events",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2026-11-12",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2026-11-26",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-01-07",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-01-12",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-01-26",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-02-05",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-02-17",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-02-26",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-03-05",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-8",
+    "title": "Learn as your Child Learns (LAYCL) | All Subjects",
+    "start": "2027-02-20",
+    "end": "2027-02-20",
+    "owner": "",
+    "category": "School events",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2026-11-20",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2026-12-04",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-01-15",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-01-20",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-02-03",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-02-15",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-02-24",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-03-05",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-03-12",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-9",
+    "title": "Student Recollection",
+    "start": "2027-03-25",
+    "end": "2027-03-25",
+    "owner": "",
+    "category": "School events",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2026-12-25",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-01-08",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-02-19",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-02-25",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-03-11",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-03-18",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-03-30",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-04-08",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-04-15",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-10",
+    "title": "Fieldtrip | YS - Primary Three",
+    "start": "2027-05-26",
+    "end": "2027-05-26",
+    "owner": "",
+    "category": "School events",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-02-26",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-03-12",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-04-23",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-04-26",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-05-10",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-05-19",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-05-31",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-06-09",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-06-16",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-11",
+    "title": "Fieldtrip | Primary Four - Six",
+    "start": "2027-05-27",
+    "end": "2027-05-27",
+    "owner": "",
+    "category": "School events",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-02-27",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-03-12",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-04-23",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-04-27",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-05-11",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-05-20",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-06-01",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-06-10",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-06-17",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-12",
+    "title": "Fieldtrip | Primary Four - Six",
+    "start": "2027-05-28",
+    "end": "2027-05-28",
+    "owner": "",
+    "category": "School events",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-02-28",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-03-12",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-04-23",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-04-28",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-05-12",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-05-21",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-06-02",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-06-11",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-06-18",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-13",
+    "title": "Youth Day Celebration",
+    "start": "2027-07-02",
+    "end": "2027-07-02",
+    "owner": "",
+    "category": "School events",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-04-02",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-04-16",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-05-28",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-06-02",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-06-16",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-06-25",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-07-07",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-07-16",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-07-23",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-14",
+    "title": "Leadership Camp (UpperPri - Secondary)",
+    "start": "2027-07-13",
+    "end": "2027-07-15",
+    "owner": "",
+    "category": "School events",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-04-13",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-04-27",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-06-08",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-06-13",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-06-25",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-07-06",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-07-16",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-07-27",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-08-03",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-15",
+    "title": "Moving up photoshoot",
+    "start": "2027-07-12",
+    "end": "2027-07-12",
+    "owner": "",
+    "category": "School events",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-04-12",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-04-26",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-06-07",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-06-12",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-06-25",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-07-05",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-07-15",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-07-26",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-08-02",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-16",
+    "title": "Moving up photoshoot",
+    "start": "2027-07-19",
+    "end": "2027-07-19",
+    "owner": "",
+    "category": "School events",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-04-19",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-05-03",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-06-14",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-06-19",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-07-02",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-07-12",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-07-22",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-08-02",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-08-09",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-17",
+    "title": "Racial Harmony Day Celebration",
+    "start": "2027-07-21",
+    "end": "2027-07-21",
+    "owner": "",
+    "category": "School events",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-04-19",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-05-03",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-06-14",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-06-19",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-07-02",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-07-12",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-07-26",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-08-04",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-08-11",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-18",
+    "title": "Moving up and Graduation photoshoot",
+    "start": "2027-07-26",
+    "end": "2027-07-26",
+    "owner": "Ms. Elaine",
+    "category": "School events",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-04-26",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-05-10",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-06-21",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-06-26",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-07-09",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-07-19",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-07-29",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-08-09",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-08-16",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-19",
+    "title": "National Day Celebration",
+    "start": "2027-08-06",
+    "end": "2027-08-06",
+    "owner": "Mr. Hanafi / Ms. Lades",
+    "category": "School events",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-05-06",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-05-20",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-07-01",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-07-06",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-07-20",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-07-30",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-08-11",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-08-20",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-08-27",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-20",
+    "title": "Teachers and ANTS Day Celebration",
+    "start": "2027-09-02",
+    "end": "2027-09-02",
+    "owner": "Ms. Apple",
+    "category": "School events",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-06-02",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-06-16",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-07-28",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-08-02",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-08-16",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-08-26",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-09-07",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-09-16",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-09-23",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-21",
+    "title": "Secondary Four Retreat",
+    "start": "2027-09-16",
+    "end": "2027-09-17",
+    "owner": "Ms. Apple",
+    "category": "School events",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-06-16",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-06-30",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-08-11",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-08-16",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-08-30",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-09-09",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-09-21",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-09-30",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-10-07",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-22",
+    "title": "Children's Day Celebration",
+    "start": "2027-09-30",
+    "end": "2027-09-30",
+    "owner": "Ms. Jing",
+    "category": "School events",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-06-30",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-07-14",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-08-25",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-08-30",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-09-13",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-09-23",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-10-05",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-10-14",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-10-21",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-23",
+    "title": "Primary Six Retreat",
+    "start": "2027-10-29",
+    "end": "2027-10-29",
+    "owner": "Ms. Apple",
+    "category": "School events",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-07-29",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-08-12",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-09-23",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-09-29",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-10-13",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-10-22",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-11-03",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-11-12",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-11-19",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-24",
+    "title": "Intramurals and Foundation Week",
+    "start": "2027-11-08",
+    "end": "2027-11-11",
+    "owner": "",
+    "category": "School events",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-08-08",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-08-20",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-10-01",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-10-08",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-10-22",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-11-01",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-11-11",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-11-22",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-11-29",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-25",
+    "title": "Yearend Party",
+    "start": "2027-11-12",
+    "end": "2027-11-12",
+    "owner": "",
+    "category": "School events",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-08-12",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-08-26",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-10-07",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-10-12",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-10-26",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-11-05",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-11-17",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-11-26",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-12-03",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-26",
+    "title": "Moving-up ceremony / Baccalaureate Mass",
+    "start": "2027-11-15",
+    "end": "2027-11-15",
+    "owner": "Ms. Med",
+    "category": "School events",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-08-15",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-08-27",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-10-08",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-10-15",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-10-29",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-11-08",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-11-18",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-11-29",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-12-06",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-27",
+    "title": "Moving-up ceremony",
+    "start": "2027-11-16",
+    "end": "2027-11-16",
+    "owner": "",
+    "category": "School events",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-08-16",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-08-30",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-10-11",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-10-16",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-10-29",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-11-09",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-11-19",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-11-30",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-12-07",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-28",
+    "title": "Moving-up ceremony",
+    "start": "2027-11-17",
+    "end": "2027-11-17",
+    "owner": "Ms. Med / Ms. Lhen",
+    "category": "School events",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-08-17",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-08-31",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-10-12",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-10-17",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-10-29",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-11-10",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-11-22",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-12-01",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-12-08",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-29",
+    "title": "Primary | Secondary Graduation",
+    "start": "2027-11-18",
+    "end": "2027-11-18",
+    "owner": "",
+    "category": "School events",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-08-18",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-09-01",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-10-13",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-10-18",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-11-01",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-11-11",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-11-23",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-12-02",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-12-09",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-30",
+    "title": "HFSE 12th Anniversary",
+    "start": "2027-11-23",
+    "end": "2027-11-23",
+    "owner": "",
+    "category": "School events",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-08-23",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-09-06",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-10-18",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-10-23",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-11-05",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-11-16",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-11-26",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-12-07",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-12-14",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-34",
+    "title": "Staff Development Day",
+    "start": "2027-04-09",
+    "end": "2027-04-09",
+    "owner": "Ms. Marrie / Ms. Jill",
+    "category": "Staff development",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-01-09",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-01-22",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-03-05",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-03-09",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-03-23",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-04-02",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-04-14",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-04-23",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-04-30",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-35",
+    "title": "Staff Development Day",
+    "start": "2027-07-16",
+    "end": "2027-07-16",
+    "owner": "Ms. Marrie / Ms. Jill",
+    "category": "Staff development",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-04-16",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-04-30",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-06-11",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-06-16",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-06-30",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-07-09",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-07-21",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-07-30",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-08-06",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-36",
+    "title": "Staff Development Day",
+    "start": "",
+    "end": "",
+    "owner": "Ms. Marrie / Ms. Jill",
+    "category": "Staff development",
+    "venue": "",
+    "description": "",
+    "registration": false,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-37",
+    "title": "Team Building and Strategic Planning",
+    "start": "",
+    "end": "",
+    "owner": "Ms. Marrie / Ms. Jill / Office Heads",
+    "category": "Staff development",
+    "venue": "",
+    "description": "",
+    "registration": false,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-41",
+    "title": "Eye and Dental Check up / First vaccination",
+    "start": "2027-03-12",
+    "end": "2027-03-12",
+    "owner": "P4E and Mr. Jon",
+    "category": "Community",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2026-12-12",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2026-12-25",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-02-05",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-02-12",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-02-26",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-03-05",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-03-17",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-03-26",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-04-02",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-42",
+    "title": "Outreach Programme",
+    "start": "2027-04-11",
+    "end": "2027-04-11",
+    "owner": "P4E and Mr. Jon",
+    "category": "Community",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-01-11",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-01-25",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-03-08",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-03-11",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-03-25",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-04-05",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-04-14",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-04-23",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-04-30",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-43",
+    "title": "Partner's recognition night",
+    "start": "2027-04-30",
+    "end": "2027-04-30",
+    "owner": "P4E and Mr. Jon",
+    "category": "Community",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-01-30",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-02-12",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-03-26",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-03-30",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-04-13",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-04-23",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-05-05",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-05-14",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-05-21",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-44",
+    "title": "Mommies Day Out",
+    "start": "2027-05-08",
+    "end": "2027-05-08",
+    "owner": "P4E and Mr. Jon",
+    "category": "Community",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-02-08",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-02-22",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-04-05",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-04-08",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-04-22",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-05-03",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-05-12",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-05-21",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-05-28",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-45",
+    "title": "Family Sportsfest",
+    "start": "2027-05-29",
+    "end": "2027-05-29",
+    "owner": "P4E and Office of the Founders / Ms. Cas",
+    "category": "Community",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-02-28",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-03-12",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-04-23",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-04-29",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-05-13",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-05-24",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-06-02",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-06-11",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-06-18",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-46",
+    "title": "Daddies Day Out",
+    "start": "2027-08-14",
+    "end": "2027-08-14",
+    "owner": "P4E and Office of the Founders / Ms. Cas",
+    "category": "Community",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-05-14",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-05-28",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-07-09",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-07-14",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-07-28",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-08-09",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-08-18",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-08-27",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-09-03",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-47",
+    "title": "Second Vaccination",
+    "start": "2027-07-30",
+    "end": "2027-07-30",
+    "owner": "P4E and Office of the Founders / Ms. Cas",
+    "category": "Community",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-04-30",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-05-14",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-06-25",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-06-30",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-07-14",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-07-23",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-08-04",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-08-13",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-08-20",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-48",
+    "title": "Collection Day for AY2027 Materials",
+    "start": "2027-12-06",
+    "end": "2027-12-10",
+    "owner": "P4E and Office of the Founders",
+    "category": "Community",
+    "venue": "",
+    "description": "",
+    "registration": true,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "2027-09-06",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "2027-09-20",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "2027-11-01",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "2027-11-06",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "2027-11-19",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "2027-11-29",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "2027-12-09",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "2027-12-20",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "2027-12-27",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-53",
+    "title": "First General Parent Engagement Session",
+    "start": "",
+    "end": "",
+    "owner": "Management",
+    "category": "Parent engagement",
+    "venue": "",
+    "description": "",
+    "registration": false,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-54",
+    "title": "HAPI Community Meeting (6-7:30PM)",
+    "start": "",
+    "end": "",
+    "owner": "Management",
+    "category": "Parent engagement",
+    "venue": "",
+    "description": "",
+    "registration": false,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-56",
+    "title": "Second General Parent Engagement Session",
+    "start": "",
+    "end": "",
+    "owner": "Management",
+    "category": "Parent engagement",
+    "venue": "",
+    "description": "",
+    "registration": false,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-57",
+    "title": "HAPI Community Meeting (6-7:30PM)",
+    "start": "",
+    "end": "",
+    "owner": "Management",
+    "category": "Parent engagement",
+    "venue": "",
+    "description": "",
+    "registration": false,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-58",
+    "title": "HAPI Community Meeting (6-7:30PM)",
+    "start": "",
+    "end": "",
+    "owner": "Management",
+    "category": "Parent engagement",
+    "venue": "",
+    "description": "",
+    "registration": false,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-62",
+    "title": "Mathematics Week",
+    "start": "",
+    "end": "",
+    "owner": "Ms. Koh, Maths Team",
+    "category": "Subject weeks",
+    "venue": "",
+    "description": "",
+    "registration": false,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-63",
+    "title": "English Week",
+    "start": "",
+    "end": "",
+    "owner": "Ms. Elaine, English Team",
+    "category": "Subject weeks",
+    "venue": "",
+    "description": "",
+    "registration": false,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-64",
+    "title": "Science Week",
+    "start": "",
+    "end": "",
+    "owner": "Science Team",
+    "category": "Subject weeks",
+    "venue": "",
+    "description": "",
+    "registration": false,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-65",
+    "title": "STAR Week",
+    "start": "",
+    "end": "",
+    "owner": "Ms. Jing, STAR Team",
+    "category": "Subject weeks",
+    "venue": "",
+    "description": "",
+    "registration": false,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "evt-66",
+    "title": "Mother Tongue Week",
+    "start": "",
+    "end": "",
+    "owner": "Ms. Lhen, MT Team",
+    "category": "Subject weeks",
+    "venue": "",
+    "description": "",
+    "registration": false,
+    "attendees": 0,
+    "attendance": 0,
+    "milestones": [
+      {
+        "name": "Proposal submission",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Approval",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Collaterals",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Advisory",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Follow-up / reminder",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Team briefing",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Post-event video / posting",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report submission",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      },
+      {
+        "name": "Report presentation",
+        "due": "",
+        "done": false,
+        "completedAt": "",
+        "completedBy": "",
+        "notes": "",
+        "files": []
+      }
+    ]
+  }
+]
