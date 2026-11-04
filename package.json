@@ -11,8 +11,8 @@
     "start": "next start",
     "typecheck": "tsc --noEmit",
     "test": "node --test --experimental-strip-types tests/*.test.ts",
-    "db:seed": "node --env-file=.env.local scripts/seed.mjs",
-    "db:add-admin": "node --env-file=.env.local scripts/add-admin.mjs"
+    "db:seed": "node --env-file=.env scripts/seed.mjs",
+    "db:add-admin": "node --env-file=.env scripts/add-admin.mjs"
   },
   "dependencies": {
     "@supabase/ssr": "^0.12.7",

@@ -140,6 +140,11 @@ export const blankEvent = (): HubEvent => ({
 });
 
 // A leading quote stops spreadsheets running a cell as a formula while keeping its text, such as +65 phones.
+// Only same-site paths, so a crafted link cannot send someone elsewhere after sign-in.
+// Control characters are refused because browsers strip them, turning "/<tab>/x.com" into "//x.com".
+export const safeNext = (next?: string | null) =>
+  next && /^\/(?![/\\])/.test(next) && !/[\x00-\x1f\\]/.test(next) ? next : '/events';
+
 export const csvCell = (v: unknown) => {
   const text = String(v ?? '');
   return '"' + (/^[=+@\-\t\r]/.test(text) ? "'" + text : text).replace(/"/g, '""') + '"';

@@ -1,7 +1,14 @@
 import assert from 'node:assert/strict';
 import { test } from 'node:test';
-import { blankEvent, csvCell, due, status } from '../lib/shared.ts';
+import { blankEvent, csvCell, due, safeNext, status } from '../lib/shared.ts';
 import { parseEvent, parseRegistration } from '../lib/validate.ts';
+
+test('safeNext keeps same-site paths and refuses everything else', () => {
+  assert.equal(safeNext('/registrations?event=1'), '/registrations?event=1');
+  for (const bad of [null, undefined, '', 'https://evil.example', '//evil.example', '/\\evil.example', '/\t/evil.example', '/\\/evil.example']) {
+    assert.equal(safeNext(bad), '/events');
+  }
+});
 
 const form = {
   parentName: 'Tan, Mei',

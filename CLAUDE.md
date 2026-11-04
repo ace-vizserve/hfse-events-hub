@@ -7,7 +7,7 @@ Parents register for school events through a public portal. Staff track each eve
 Run from `web/`.
 
 ```sh
-npm run dev        # needs .env.local
+npm run dev        # needs .env
 npm run build
 npm run typecheck
 npm test           # unit tests for validation and deadline rules
@@ -20,6 +20,7 @@ There is no end-to-end suite in this repo. After changing routes, data access or
 ## Layout
 
 - `app/(admin)/`: staff pages. `app/attendees`, `app/login` and `app/page.tsx` are the public ones.
+- `app/auth/callback/`: finishes Microsoft sign-in. It only starts the session; access still needs a row in `hfse_events_hub_event_admins`.
 - `app/api/`: route handlers, wrapped in `publicRoute` or `adminRoute` from `lib/api.ts`.
 - `components/`: client components. `Workspace.tsx` holds the overview, events table, deadline tracker and calendar views.
 - `lib/shared.ts`: types and business rules used by both server and browser.

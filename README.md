@@ -13,7 +13,7 @@ Next.js app for event registration and event monitoring, hosted on Vercel, with 
 1. Create a Supabase project, or use an existing one. Everything this app creates is prefixed: tables and the function start with `hfse_events_hub_`, and the storage bucket is `hfse-events-hub-files`. For a new project, choose a Singapore region if your PDPA review requires local storage.
 2. In the Supabase SQL editor, run `supabase/migrations/0001_schema.sql`, then `supabase/migrations/0002_app.sql`.
 3. Under **Authentication > Providers > Email**, turn off public sign-ups so only people you add have accounts. Sign-ups and logins apply to the whole project, so if other apps share it, check they don't rely on public sign-ups. A signed-up account still can't reach the workspace unless it's listed in `hfse_events_hub_event_admins`.
-4. Copy `.env.example` to `.env.local` and fill it in from **Project Settings > API**.
+4. Copy `.env.example` to `.env` and fill it in from **Project Settings > API**.
 
 ## 2. Load data and add the first administrator
 
@@ -43,9 +43,18 @@ Open http://localhost:3000.
 ## Before going live
 
 - **Limit registration abuse.** `/api/register` is public and has no rate limit yet. Add a Vercel Firewall rate-limit rule for it.
-- **Import live data.** This app starts with starter data only. Follow "Storage mapping and live-data migration" in the handover document. Live registrations, event edits, history and files must be exported from the old site, and no import script exists for them yet.
 - **Have IT review the migrations**, as the handover document requires.
-- **Set up backups** and document how to restore them.
+- **Turn on backups.** Check what your Supabase plan includes, because the database will hold parents' personal data.
+
+The database starts fresh with the 47 starter events. Live data from the old site is not being migrated.
+
+## Microsoft sign-in
+
+The login page offers email and password, and Microsoft. Supabase handles the Microsoft side through its `azure` provider.
+
+1. In Supabase, turn on the Azure provider under **Authentication > Providers**, using an app registered in Microsoft Entra ID. Its redirect URI is `https://<project-ref>.supabase.co/auth/v1/callback`.
+2. Under **Authentication > URL Configuration**, add each site's callback to **Redirect URLs**, for example `http://localhost:3000/auth/callback**`. Without this, Supabase sends people to the project's Site URL instead.
+3. Grant access with `npm run db:add-admin -- person@example.com`. A Microsoft account alone doesn't grant access.
 
 ## How access works
 
